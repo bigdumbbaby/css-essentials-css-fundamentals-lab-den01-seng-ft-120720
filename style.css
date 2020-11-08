@@ -19,6 +19,6 @@ nav > a {
   font-size: 10px;
 }
 
-#featured-property > figcaption {
+figcaption {
   text-align: center;
 }
